@@ -1,12 +1,12 @@
 # JupyterLite Demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://yawwusugh.github.io/jupyterlite_ngsolve_demo/lab/?path=Maxwell_Nedelec_demo.ipynb)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://yawwusugh.github.io/Nedelec_demo/lab/?path=Maxwell_Nedelec_demo.ipynb)
 
 JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://yawwusugh.github.io/jupyterlite_ngsolve_demo/lab/?path=Maxwell_Nedelec_demo.ipynb**
+➡️ **https://yawwusugh.github.io/Nedelec_demo/lab/?path=Maxwell_Nedelec_demo.ipynb**
 
 ## Setting up your own NGSolve - jupyterlite demos:
 
